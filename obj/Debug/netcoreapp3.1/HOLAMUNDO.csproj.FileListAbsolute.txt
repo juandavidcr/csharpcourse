@@ -1,0 +1,13 @@
+C:\Users\JuanDavid\Documents\HOLAMUNDO\bin\Debug\netcoreapp3.1\HOLAMUNDO.exe
+C:\Users\JuanDavid\Documents\HOLAMUNDO\bin\Debug\netcoreapp3.1\HOLAMUNDO.deps.json
+C:\Users\JuanDavid\Documents\HOLAMUNDO\bin\Debug\netcoreapp3.1\HOLAMUNDO.runtimeconfig.json
+C:\Users\JuanDavid\Documents\HOLAMUNDO\bin\Debug\netcoreapp3.1\HOLAMUNDO.runtimeconfig.dev.json
+C:\Users\JuanDavid\Documents\HOLAMUNDO\bin\Debug\netcoreapp3.1\HOLAMUNDO.dll
+C:\Users\JuanDavid\Documents\HOLAMUNDO\bin\Debug\netcoreapp3.1\HOLAMUNDO.pdb
+C:\Users\JuanDavid\Documents\HOLAMUNDO\obj\Debug\netcoreapp3.1\HOLAMUNDO.csprojAssemblyReference.cache
+C:\Users\JuanDavid\Documents\HOLAMUNDO\obj\Debug\netcoreapp3.1\HOLAMUNDO.AssemblyInfoInputs.cache
+C:\Users\JuanDavid\Documents\HOLAMUNDO\obj\Debug\netcoreapp3.1\HOLAMUNDO.AssemblyInfo.cs
+C:\Users\JuanDavid\Documents\HOLAMUNDO\obj\Debug\netcoreapp3.1\HOLAMUNDO.csproj.CoreCompileInputs.cache
+C:\Users\JuanDavid\Documents\HOLAMUNDO\obj\Debug\netcoreapp3.1\HOLAMUNDO.dll
+C:\Users\JuanDavid\Documents\HOLAMUNDO\obj\Debug\netcoreapp3.1\HOLAMUNDO.pdb
+C:\Users\JuanDavid\Documents\HOLAMUNDO\obj\Debug\netcoreapp3.1\HOLAMUNDO.genruntimeconfig.cache
